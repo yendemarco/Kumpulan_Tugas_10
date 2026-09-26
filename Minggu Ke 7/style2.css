@@ -1,0 +1,38 @@
+body{
+
+    background-color: rgb(3, 8, 85);
+}
+
+.title{
+    font-size: 52px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 0,4;
+
+
+}
+
+#subtitle{
+    font-style: bold;
+    font-size: 22;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    color: aliceblue;
+    margin-top: 50px ;
+    background-color: rgb(58, 19, 95);
+    padding: 20px;
+    border-radius: 11px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+#kelas{
+    color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
